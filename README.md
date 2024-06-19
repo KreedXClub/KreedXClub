@@ -1,3 +1,36 @@
+# 💫 About Me:
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+<h2 align="center">Meet Pasindu OG Dev</h2>
+<h3 align="center">Hello! 👋 I'm Pasindu Madhuwantha.</h3>
+
+<br>
+
+🌐 At KreedX, we’re transforming the digital world for everyone by offering:
+  
+- 🔰 **Skill development and learning opportunities.**
+
+- 🔰 **Community engagement and coding challenges.**
+
+- 🔰 **Exciting hackathons and project collaborations.**
+
+- 🔰 **Cutting-edge IoT projects.**
+
+- 🔰 **Workshops and tutorials.**
+
+</td>
+
+<td width="50%" align="center">
+  <img align="right" alt="coding" src="https://i.postimg.cc/qMXR4SsR/kreedx.jpg" width="100%">
+</td>
+  
+</tr>
+
+</table>
+    
+<hr>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61560707079861&_rdc=1&_rdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kreed_x_dev?igsh=MXZyd2cxcHF5OXFl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KreedXClub?t=v4TTpdUh6xk6-UXaB0MqTQ&s=08) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@kreedxclub?si=P9nZA8PabZMuWvMo) 
