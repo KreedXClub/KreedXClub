@@ -1,4 +1,3 @@
-# 💫 About Me:
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -18,7 +17,7 @@
 </td>
 
 <td width="50%" align="center">
-  <img align="right" alt="coding" src="https://i.postimg.cc/qMXR4SsR/kreedx.jpg" width="100%">
+  <img align="right" alt="coding" src="https://i.postimg.cc/y8Q0pGRN/kreedx.gif" width="100%">
 </td>
   
 </tr>
